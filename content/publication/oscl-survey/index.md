@@ -15,4 +15,7 @@ doi: 10.24963/ijcai.2023/743
 links:
 - name: URL
   url: http://dx.doi.org/10.24963/ijcai.2023/743
+
+# Display this page in the Featured widget?
+featured: true
 ---
