@@ -48,33 +48,33 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: Java
-        description: ''
-        percent: 70
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: Java
+#         description: ''
+#         percent: 70
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
     
 
 # Social/Academic Networking
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Dr. Nuwan Gunasekara, an AI researcher with a decade of industry experience, specializes in evolving data stream learning. His work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in Stream Learning and mitigating catastrophic forgetting in Online Continual Learning for Neural Networks. Nuwan also has a decade of industry experience developing high-speed network capture and analysis software.
+I am an AI researcher who specializes in evolving data stream learning. My work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in Stream Learning and mitigating catastrophic forgetting in Online Continual Learning for Neural Networks. I also have a decade of industry experience developing high-speed network capture and analysis software.
 {style="text-align: justify;"}
