@@ -205,7 +205,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [oscl-survey](./publication/).
         {{% /callout %}}
       filters:
         folders:
