@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am an AI researcher who specializes in evolving data stream learning. My work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in Stream Learning and mitigating catastrophic forgetting in Online Continual Learning for Neural Networks. I also have a decade of industry experience developing high-speed network capture and analysis software.
+As an AI researcher, my expertise lies in evolving data stream learning. My work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in Stream Learning and mitigating catastrophic forgetting in Online Continual Learning for Neural Networks. I also have a decade of industry experience developing high-speed network capture and analysis software.
 {style="text-align: justify;"}
