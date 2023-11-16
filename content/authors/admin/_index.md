@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Nuwan Gunasekara
+title: Nuwan Gunasekara
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -61,9 +61,9 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Java
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -75,16 +75,7 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
