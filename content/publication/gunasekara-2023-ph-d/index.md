@@ -9,4 +9,7 @@ publication_types:
 links:
 - name: URL
   url: https://hdl.handle.net/10289/16142
+file:
+- name: file
+  url: uploads/resume.pdf
 ---
