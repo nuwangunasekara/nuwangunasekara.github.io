@@ -1,8 +1,7 @@
 ---
 title: "Advanced Topics in Stream Learning"
 
-event: University of Waikato, - Data
-Stream Mining (COMPX523 Masters Course),2023
+event: University of Waikato, - Data Stream Mining (COMPX523 Masters Course),2023
 # event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
@@ -31,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 # links:
 #   - icon: twitter
