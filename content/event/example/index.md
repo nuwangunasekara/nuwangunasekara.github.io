@@ -41,7 +41,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'Cardiff_talk_2022.pdf'
+url_slides: 'uploads/Cardiff_talk_2022.pdf'
 url_video: 'https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?tid=8483a615-48e0-47f6-b847-af4800bd0771'
 
 # Markdown Slides (optional).
