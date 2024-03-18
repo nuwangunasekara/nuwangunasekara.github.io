@@ -12,8 +12,8 @@ event: Cardiff University - Machine Learning Seminar, 2022
 #   postcode: '94305'
 #   country: United States
 
-summary: Neural Networks for Data streams.
-abstract: 'Neural networks have enjoyed tremendous success in many areas over the last decade. They are also receiving more and more attention in learning from data streams, which is inherently incremental. An incremental setting poses challenges for hyperparameter optimization, which is essential to obtain satisfactory network performance. To overcome this challenge, we introduce Continuously Adaptive Neural networks for Data streams (CAND). For every prediction, CAND chooses the current best network from a pool of candidates by continuously monitor- ing the performance of all candidate networks. The candidates are trained using different optimizers and hyperparameters. An experimental comparison against three state-of-the-art stream learning methods, over 17 benchmark streaming datasets con- firms the competitive performance of CAND, especially on high- dimensional data. We also investigate two orthogonal heuristics for accelerating CAND, which trade-off small amounts of accu- racy for significant run-time gains. We observe that training on small mini-batches yields similar accuracy to single-instance fully incremental training, even on evolving data streams.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,18 +49,18 @@ url_video: 'https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?tid=8483a
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-#   - example
+projects:
+  - example
 ---
 
-<!-- {{% callout note %}}
+{{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -70,4 +70,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
