@@ -12,8 +12,8 @@ event: Cardiff University - Machine Learning Seminar, 2022
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Neural Networks for Data streams.
+abstract: 'Neural networks have enjoyed tremendous success in many areas over the last decade. They are also receiving more and more attention in learning from data streams, which is inherently incremental. An incremental setting poses challenges for hyperparameter optimization, which is essential to obtain satisfactory network performance. To overcome this challenge, we introduce Continuously Adaptive Neural networks for Data streams (CAND). For every prediction, CAND chooses the current best network from a pool of candidates by continuously monitor- ing the performance of all candidate networks. The candidates are trained using different optimizers and hyperparameters. An experimental comparison against three state-of-the-art stream learning methods, over 17 benchmark streaming datasets con- firms the competitive performance of CAND, especially on high- dimensional data. We also investigate two orthogonal heuristics for accelerating CAND, which trade-off small amounts of accu- racy for significant run-time gains. We observe that training on small mini-batches yields similar accuracy to single-instance fully incremental training, even on evolving data streams.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
