@@ -18,7 +18,7 @@ abstract: 'Stream Learning (SL) attempts to learn from a data stream efficiently
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-09-24T11:00:00Z'
-date_end: '2023-24-11T12:00:00Z'
+date_end: '2023-09-24T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
