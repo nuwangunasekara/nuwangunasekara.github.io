@@ -11,7 +11,7 @@ publishDate: '2024-02-16T06:34:28.742435Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Thirty-Third International Joint Conference on
-  Artificial Intelligence (Submitted for review)*'
+  Artificial Intelligence (Accepted)*'
 doi: 
 links:
 - name: URL
