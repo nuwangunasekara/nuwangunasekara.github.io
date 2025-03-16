@@ -1,6 +1,6 @@
 ---
 title: MOA
-summary: MOA (Massive Online Analysis) .
+summary: MOA (Massive Online Analysis).
 tags:
   - MOA
 date: "2023-11-16T00:00:00Z"
