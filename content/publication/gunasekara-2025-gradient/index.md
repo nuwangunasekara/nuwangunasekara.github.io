@@ -10,4 +10,5 @@ publishDate: '2025-07-28T15:23:20.145179Z'
 publication_types:
 - article-journal
 publication: '*Data Mining and Knowledge Discovery*'
+featured: true
 ---
