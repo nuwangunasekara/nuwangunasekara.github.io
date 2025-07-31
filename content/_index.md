@@ -46,8 +46,8 @@ sections:
         folders:
           - project
     design:
-      view: article-grid
-      columns: 1
+      view: card
+      columns: 3
   - block: collection
     id: papers
     content:
