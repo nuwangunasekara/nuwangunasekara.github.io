@@ -38,8 +38,8 @@ sections:
         I am an AI researcher specializing in evolving data stream learning, focusing on advanced techniques like Neural Networks and Gradient Boosting. My work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in data streams and mitigating catastrophic forgetting in Neural Networks for online learning. I actively contribute to the open-source MOA and CapyMOA stream learning frameworks. I have also published multiple publications in reputed venues and have delivered tutorials on online learning. I have extensive experience in the industry, having participated in multiple machine learning projects and developed network capture tools. Explore my GitHub for accessible source codes.
     design:
       columns: '1'
-  - block: projects
-    id: projects
+  - block: collection
+    id: Projects
     content:
       title: Projects
       filters:
